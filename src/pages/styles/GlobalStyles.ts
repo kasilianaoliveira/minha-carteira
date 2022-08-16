@@ -8,8 +8,8 @@ export default createGlobalStyle`
   }
 
   body {
-    background-color: #2B4162;
     font-family: 'Roboto', sans-serif;
+    font-size: 400;
     color: white;
   }
 
